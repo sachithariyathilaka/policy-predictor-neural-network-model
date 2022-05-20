@@ -1,2 +1,5 @@
 # Policy Predictor Neural Network Model
-Policy predictor neural network model using Jupiter notebook
+Road traffic policy predictor from neural network model
+
+# Technologies
+Python, Jupiter Notebook, Neural Networks
