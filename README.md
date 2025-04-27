@@ -7,8 +7,8 @@ Road traffic policy predictor from neural network model.
     * Neural Networks Algorithm
 
 * ### Release Note
-    * Release: 1.0.0
-    * Date: 2024/05/26
+    * Version: 1.0.0
+    * Release Date: 2024/05/26
     * Module: Policy Predictor Neural Network Model
     * Changes
         * Policy predictor neural network model implemented.
